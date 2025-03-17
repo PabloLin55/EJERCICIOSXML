@@ -4,6 +4,7 @@ Curso: 1DAW
 Fecha: 16/03/2025
 Ejercicio 3
 -->
+<?xml version="1.0" encoding="UTF-8"?>
 <libros>
 <!--Información básica de un libro-->
     <libro titulo="WIGETTA: VIEGETTA Y BABYREX" autor="Vegetta777 y Willyrex" añoPublicacion="2020"/>

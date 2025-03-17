@@ -4,6 +4,7 @@ Curso: 1DAW
 Fecha: 16/03/2025
 Ejercicio 4
 -->
+<?xml version="1.0" encoding="UTF-8"?>
 <empresa>
 <!--Información básica de un empleado-->
     <empleado>
