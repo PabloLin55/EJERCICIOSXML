@@ -1,0 +1,23 @@
+<!--
+Nombre: Pablo Lin
+Curso: 1DAW
+Fecha: 16/03/2025
+Ejercicio 1
+-->
+<listaCiudades>
+<!--Información básica de una ciudad -->
+    <ciudad> 
+        <nombre>Nueva Delhi</nombre>
+        <pais continente="Asia">India</pais>
+    </ciudad>
+
+    <ciudad> 
+        <nombre>Lisboa</nombre>
+        <pais continente="Europa">Portugal</pais>
+    </ciudad>
+
+    <ciudad> 
+        <nombre>El Cairo</nombre>
+        <pais continente="Africa">Egipto</pais>
+    </ciudad>
+</listaCiudades> 

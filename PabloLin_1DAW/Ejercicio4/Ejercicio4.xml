@@ -1,0 +1,29 @@
+<!--
+Nombre: Pablo Lin
+Curso: 1DAW
+Fecha: 16/03/2025
+Ejercicio 4
+-->
+<empresa>
+<!--Información básica de un empleado-->
+    <empleado>
+        <nombre>Ana</nombre>
+        <apellido>García</apellido>
+        <edad>30</edad>
+        <departamento cargo="Ejecutivo de ventas">Ventas</departamento>  
+    </empleado>
+    
+    <empleado>
+        <nombre>Luis</nombre>
+        <apellido>Rodríguez</apellido>
+        <edad>45</edad>
+        <departamento cargo="Analista financiero">Finanzas</departamento>  
+    </empleado>
+    
+    <empleado>
+        <nombre>María</nombre>
+        <apellido>López</apellido>
+        <edad>28</edad>
+        <departamento cargo="Especialista en redes sociales">Marketing</departamento>  
+    </empleado>
+</empresa>

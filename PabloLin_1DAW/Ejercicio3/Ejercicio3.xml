@@ -1,0 +1,14 @@
+<!--
+Nombre: Pablo Lin
+Curso: 1DAW
+Fecha: 16/03/2025
+Ejercicio 3
+-->
+<libros>
+<!--Información básica de un libro-->
+    <libro titulo="WIGETTA: VIEGETTA Y BABYREX" autor="Vegetta777 y Willyrex" añoPublicacion="2020"/>
+    <libro titulo="EL PLAN MAESTRO" autor="Javier Sierra" añoPublicacion="2025"/>
+    <libro titulo="La librería de los deseos" autor="Éric de Kermel" añoPublicacion="2024"/>
+    <libro titulo="LA INSPECTORA GITANA" autor="Mario Escobar" añoPublicacion="2022"/>
+    <libro titulo="El palcer de vestirte" autor="Allison Bornstein" añoPublicacion="2024"/>
+</libros>
